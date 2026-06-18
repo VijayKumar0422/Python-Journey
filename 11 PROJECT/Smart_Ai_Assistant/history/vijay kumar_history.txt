@@ -1,0 +1,90 @@
+
+---------------------
+Time : 2026-06-18 13:25:43.425041
+User : he
+Bot : I don't know this. Teach me using 'teach' command.
+
+---------------------
+Time : 2026-06-18 13:25:54.291453
+User : hello
+Bot : Hi, welcome.
+
+---------------------
+Time : 2026-06-18 13:26:03.558439
+User : what is python
+Bot : I don't know this. Teach me using 'teach' command.
+
+---------------------
+Time : 2026-06-18 13:26:13.133645
+User : what is python
+Bot : I don't know this. Teach me using 'teach' command.
+
+---------------------
+Time : 2026-06-18 13:26:42.837176
+User : python is a open source program
+Bot : I don't know this. Teach me using 'teach' command.
+
+---------------------
+Time : 2026-06-18 13:26:48.163719
+User : what is python
+Bot : I don't know this. Teach me using 'teach' command.
+
+---------------------
+Time : 2026-06-18 13:26:52.166830
+User : exit
+Bot : I don't know this. Teach me using 'teach' command.
+
+---------------------
+Time : 2026-06-18 13:26:57.360947
+User : kaise ho
+Bot : I don't know this. Teach me using 'teach' command.
+
+---------------------
+Time : 2026-06-18 13:48:11.691930
+User : hello
+Bot : Hi, welcome.
+
+---------------------
+Time : 2026-06-18 13:48:21.057502
+User : add task
+Bot : I don't know this. Teach me using 'teach' command.
+
+---------------------
+Time : 2026-06-18 13:48:24.890714
+User : addtask
+Bot : I don't know this. Teach me using 'teach' command.
+
+---------------------
+Time : 2026-06-18 13:48:29.827134
+User : add task
+Bot : I don't know this. Teach me using 'teach' command.
+
+---------------------
+Time : 2026-06-18 13:48:39.389378
+User : guess game
+Bot : I don't know this. Teach me using 'teach' command.
+
+---------------------
+Time : 2026-06-18 13:48:41.950077
+User : rps
+Bot : I don't know this. Teach me using 'teach' command.
+
+---------------------
+Time : 2026-06-18 13:48:46.593149
+User : password
+Bot : I don't know this. Teach me using 'teach' command.
+
+---------------------
+Time : 2026-06-18 13:50:15.093984
+User : bye
+Bot : Goodbye
+
+---------------------
+Time : 2026-06-18 13:55:25.253919
+User : hello
+Bot : Hi, welcome.
+
+---------------------
+Time : 2026-06-18 13:56:51.363031
+User : bye
+Bot : Goodbye
