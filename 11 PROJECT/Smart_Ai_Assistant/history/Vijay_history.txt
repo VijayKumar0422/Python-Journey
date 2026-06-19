@@ -137,3 +137,18 @@ Bot : html is markup language
 Time : 2026-06-18 13:59:06.929633
 User : bye
 Bot : Goodbye
+
+---------------------
+Time : 2026-06-19 17:19:24.732887
+User : hello
+Bot : Hi, welcome.
+
+---------------------
+Time : 2026-06-19 17:19:43.426198
+User : what is html
+Bot : html is markup language
+
+---------------------
+Time : 2026-06-19 17:19:46.608980
+User : bye
+Bot : Goodbye
